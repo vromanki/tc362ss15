@@ -1,0 +1,3 @@
+IP address for Wordpress:
+
+104.131.181.238
